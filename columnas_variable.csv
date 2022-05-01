@@ -1,0 +1,26 @@
+Columnas,Variables
+Marca temporal,fecha
+Sexo:,genero
+¿En qué rango de edad te encuentras?,edad
+¿Actualmente cuentas con un trabajo?,trabaja
+¿Tienes familiares dentro de tu mismo hogar que fuman?,familia_fuma
+"De sus amigos, ¿Cuántos tienen el hábito de fumar?",amigos_fuma
+¿Tiene usted el hábito de fumar?,fuma
+¿Qué órganos crees que te afecta cuando consumes productos de tabaquismo?(Puede seleccionar varios),organos
+¿Cuánto tiempo llevas fumando?,tiempo_fumando
+¿Cree usted que su hábito le ha afectado a una persona directamente de su círculo social?,consciente 
+"¿Cuándo fuma, normalmente con quien lo hace?(Puede seleccionar varios)",acompanante
+¿Qué cantidad de cigarrillos consumes diariamente?,cant_cigarros
+"¿Cuánto dinero gasta en promedio, de cigarrillos al mes?",gasto_mensual
+¿Qué días de la semana considera que consume más cigarrillo?(Puede seleccionar varios),dia_mas_consumo
+¿En qué jornadas tiene más consumo de tabaco?(Puede seleccionar varios),jornada_consumo
+¿Crees que tu consumo de tabaco aumenta en periodos vacacionales?,consumo_vacaciones
+¿Has querido dejar el hábito de fumar?,dejar_habito
+¿Cuánto tiempo lograste estar sin fumar?,tiempo_sin_fumar
+¿Qué lo motiva a dejar de fumar?,motivacion
+¿Realizas alguna actividad que te sirva como distracción?,distraccion
+¿Ha utilizado algún medio digital para reducir el consumo de tabaco?,herramienta_digital
+¿Qué tanto tiempo le dedicas diariamente a tu smartphone?,tiempo_smarphone
+¿Le gustaría tener una herramienta a su disposición que le ayude a reducir el consumo?,dispositivos_moviles
+¿Dónde sueles ver publicidad sobre consumo de tabaco?,vista_publicidad
+¿Crees que la publicidad mostrada en medios digitales influyen en el consumo del tabaco?,influencia_publicidad
